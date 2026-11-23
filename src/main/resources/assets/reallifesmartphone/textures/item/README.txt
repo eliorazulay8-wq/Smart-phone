@@ -1,0 +1,1 @@
+Texture placeholder note: add smartphone.png here. The model will show a missing-texture placeholder until a texture is added.
